@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Venika Sem
-# Created on: oct 2022
+# Created on: Oct 2022
 # This program tells the month based on a number
 
 import math
